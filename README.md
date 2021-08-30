@@ -6,9 +6,9 @@
 2. [x] plot showing the assigned/unassigned for the same range of thresholds.
 3. [x] plot showing the quality scores for the same range of thresholds, but only for the same exact signals, so properly assigned ones in non-dw (this is a more fair comparison between non-dw and dw)
 4. [x] plot showing the quality scores for the same range of thresholds, for all the signals.
-5. [ ] table showing the #counts for all the genes -/+ dw
+5. [x] table showing the #counts for all the genes -/+ dw
 6. [ ] based on the table we pick 4-6 genes to show their transcripts on a selected ROI (region you’re showing in your paper?)
-7. [ ] violin plots from your slide 7, but non-dw and dw next to each other (for each cell type)
+7. [x] violin plots from your slide 7, but non-dw and dw next to each other (for each cell type)
 8. [ ] Image like the one you have on slide 5 but perhaps with increased clarity? (I’m not sure what I should be seeing there at the moment)
 
 ## Resources
