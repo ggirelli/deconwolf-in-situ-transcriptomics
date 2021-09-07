@@ -21,3 +21,6 @@ Draft text: [here](https://docs.google.com/document/d/1FSr8qI8tQaduHLGC90o6I0Biq
 - [x] Panel b: image with signal for FTH1 target.
 - [x] Panel c: image with signal for SPARCL1 target.
 - [x] Panel d: image with signal for ENC1 target.
+- [x] Panel b: image with signal for SLC1A2 target.
+- [x] Panel c: image with signal for CHN1 target.
+- [x] Panel d: image with signal for CALM2 target.
