@@ -9,9 +9,10 @@ Draft text: [here](https://docs.google.com/document/d/1FSr8qI8tQaduHLGC90o6I0Biq
 ![Fig.4](figures/fig_4.jpg)
 
 - [x] Panel a: counts of assigned/unassigned dots per threshold.
-- [x] Panel b: transcript counts of DW vs Raw.
-- [x] Panel c: relative difference in transcripts count to identify most affected targets.
-- [x] Panel d: number of un/annotated cells.
+- [x] Panel b: visualization of transcript spots in a field of view, RAW.
+- [x] Panel c: visualization of transcript spots in a field of view, DW.
+- [x] Panel d: transcript counts of DW vs Raw.
+- [x] Panel e: number of un/annotated cells.
 
 ### Supplementary Figure X4
 
@@ -19,14 +20,3 @@ Draft text: [here](https://docs.google.com/document/d/1FSr8qI8tQaduHLGC90o6I0Biq
 
 - [x] Panel a: counts of total dots per threshold.
 - [x] Panel b: median quality score of assigned dots.
-
-### Supplementary Figure X5
-
-![Supp.Fig.X5](figures/supp_fig_x5.jpg)
-
-- [x] Panel a: image with signal for FTH1 target.
-- [x] Panel b: image with signal for SPARCL1 target.
-- [x] Panel c: image with signal for ENC1 target.
-- [x] Panel d: image with signal for SLC1A2 target.
-- [x] Panel e: image with signal for CHN1 target.
-- [x] Panel f: image with signal for CALM2 target.
